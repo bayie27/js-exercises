@@ -1,4 +1,5 @@
-//Sum of any three numbers then add 100
+// #1 Operator Sum
+// Sum of any three numbers then add 100
 
 let a = 2;
 
